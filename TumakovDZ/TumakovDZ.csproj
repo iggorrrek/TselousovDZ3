@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C824810-0AE0-4759-89FA-6B29EACA9FA8}</ProjectGuid>
+    <ProjectGuid>{554315BA-7455-4DF7-80FB-CF8A6732BDB6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FileDZ</RootNamespace>
-    <AssemblyName>FileDZ</AssemblyName>
+    <RootNamespace>TumakovDZ</RootNamespace>
+    <AssemblyName>TumakovDZ</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
